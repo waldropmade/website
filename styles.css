@@ -1,6 +1,6 @@
 :root,
 :root.dark {
-  --bg-color: #121212;
+  --bg-color: #000;
   --main-color: #222;
   --accent-color: #333;
   --hover-color: #444;
@@ -8,6 +8,7 @@
   --text-color: #FFF;
   --warn-color: #FF0000;
 }
+
 :root.light {
   --bg-color: #EDEDED;
   --main-color: #DDD;

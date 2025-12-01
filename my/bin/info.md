@@ -1,0 +1,1 @@
+I'm thinking this should be a self implemented Pastebin clone. I have specs in mind, but am too sleepy to write them at the moment.
